@@ -17,7 +17,7 @@ pip install lxml
 
 The current file is adapted to detecting online censorship mechanism in South Korea.
 
-The program could fail due to update on URL or change in HTML script.
+The program could fail due to an update on URL or change in HTML script.
 
 The Alexa and KCSC URL on the file is from June 14th, 2020.
 
