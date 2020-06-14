@@ -1,5 +1,5 @@
 # TestCensor
-Loads the TOP50 websites from Alexa and tries to establish connection
+Attempts to establish connections with various websites in different categories to know the extent of online censorship
 
 ## Getting Started
 Install Python
