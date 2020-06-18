@@ -100,14 +100,17 @@ def printResult(category, element_list, HTTP):
     with open('result.csv', 'a', newline = '') as file:
         writer = csv.writer(file)
         writer.writerow([])
-        writer.writerow(["TEST RESULT FOR "+ category.upper()+" (HTTPS)"])
+        if HTTP:
+            writer.writerow(["TEST RESULT FOR "+ category.upper()+" (HTTP),,,,"])
+        else:
+            writer.writerow(["TEST RESULT FOR "+ category.upper()+" (HTTPS),,,,"])
         writer.writerow(["Site", "Accessible", "CensorType", "URL", "Time Taken"])
 
     # Restrict number of sites per categories
     # element_list = element_list[:4]
 
     for site in element_list:
-        if HTTP == True:
+        if HTTP:
             httpURL = 'http://www.'+site+'/'
             ti = time.process_time()
             res = requestPage(httpURL)
@@ -173,10 +176,10 @@ def testout (categoryList, HTTP, Label):
     plt.savefig(Label)
 
 
-with open('result.csv', 'a', newline='') as file:
+with open('result.csv', 'w', newline='') as file:
     writer = csv.writer(file)
     writer.writerow([])
-    writer.writerow(["Data collected at "+ time.ctime()])
+    writer.writerow(["Data collected at "+ time.ctime()+",,,,"])
 
 
 temp0 = requests.get ("https://www.alexa.com/topsites/category")
