@@ -1,5 +1,5 @@
 
-Data collected at Thu Jun 18 15:04:07 2020
+Data collected at Thu Jun 18 15:04:07 2020,,,,
 
 TEST RESULT FOR SOUTH KOREA (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
@@ -54,7 +54,7 @@ Yahoo.co.jp,O,,http://www.Yahoo.co.jp/,0.03125
 Spotify.com,O,,http://www.Spotify.com/,0.078125
 Joins.com,O,,http://www.Joins.com/,0.046875
 
-TEST RESULT FOR SOUTH KOREA (HTTPS)
+TEST RESULT FOR SOUTH KOREA (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Google.com,O,,https://www.Google.com/,0.03125
 Naver.com,O,,https://www.Naver.com/,0.03125
@@ -107,9 +107,9 @@ Yahoo.co.jp,O,,https://www.Yahoo.co.jp/,0.0625
 Spotify.com,O,,https://www.Spotify.com/,0.078125
 Joins.com,O,,https://www.Joins.com/,0.03125
 
-Data collected at Thu Jun 18 15:06:26 2020
+Data collected at Thu Jun 18 15:06:26 2020,,,,
 
-TEST RESULT FOR ADULT (HTTPS)
+TEST RESULT FOR ADULT (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Xvideos.com,X,DNS,http://www.Xvideos.com/,0.0
 Xnxx.com,X,DNS,http://www.Xnxx.com/,0.015625
@@ -162,7 +162,7 @@ Nifty.org,O,,http://www.Nifty.org/,0.015625
 Awempire.com,O,,http://www.Awempire.com/,0.0625
 Eroticmedia.com,O,,http://www.Eroticmedia.com/,0.015625
 
-TEST RESULT FOR ARTS (HTTPS)
+TEST RESULT FOR ARTS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Youtube.com,O,,http://www.Youtube.com/,0.03125
 Netflix.com,O,,http://www.Netflix.com/,0.0625
@@ -215,7 +215,7 @@ Money.cnn.com,O,,http://www.Money.cnn.com/,0.109375
 Ksl.com,O,,http://www.Ksl.com/,0.015625
 Newyorker.com,O,,http://www.Newyorker.com/,0.078125
 
-TEST RESULT FOR BUSINESS (HTTPS)
+TEST RESULT FOR BUSINESS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Office.com,O,,http://www.Office.com/,0.03125
 Paypal.com,O,,http://www.Paypal.com/,0.078125
@@ -268,7 +268,7 @@ Zara.com,O,,http://www.Zara.com/,0.0625
 Onlinelibrary.wiley.com,O,,http://www.Onlinelibrary.wiley.com/,0.125
 Americanexpress.com,O,,http://www.Americanexpress.com/,0.03125
 
-TEST RESULT FOR COMPUTERS (HTTPS)
+TEST RESULT FOR COMPUTERS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Google.com,O,,http://www.Google.com/,0.0
 Youtube.com,O,,http://www.Youtube.com/,0.03125
@@ -321,7 +321,7 @@ Alexa.com,O,,http://www.Alexa.com/,0.03125
 Pixabay.com,O,,http://www.Pixabay.com/,0.078125
 Intuit.com,O,,http://www.Intuit.com/,0.046875
 
-TEST RESULT FOR GAMES (HTTPS)
+TEST RESULT FOR GAMES (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Twitch.tv,O,,http://www.Twitch.tv/,0.046875
 Roblox.com,O,,http://www.Roblox.com/,0.046875
@@ -374,7 +374,7 @@ Games-workshop.com,O,,http://www.Games-workshop.com/,0.015625
 Travian.com,O,,http://www.Travian.com/,0.046875
 Pokemon.com,O,,http://www.Pokemon.com/,0.046875
 
-TEST RESULT FOR HEALTH (HTTPS)
+TEST RESULT FOR HEALTH (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Nih.gov,O,,http://www.Nih.gov/,0.046875
 Who.int,O,,http://www.Who.int/,0.03125
@@ -427,7 +427,7 @@ Osha.gov,O,,http://www.Osha.gov/,0.046875
 Nidcr.nih.gov,O,,http://www.Nidcr.nih.gov/,0.0625
 Doctor.webmd.com,X,CXN,http://www.Doctor.webmd.com/,0.015625
 
-TEST RESULT FOR HOME (HTTPS)
+TEST RESULT FOR HOME (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Finance.yahoo.com,O,,http://www.Finance.yahoo.com/,0.078125
 Cnbc.com,O,,http://www.Cnbc.com/,0.015625
@@ -480,7 +480,7 @@ Marthastewart.com,O,,http://www.Marthastewart.com/,0.015625
 Cafemom.com,O,,http://www.Cafemom.com/,0.046875
 Theasianparent.com,O,,http://www.Theasianparent.com/,0.109375
 
-TEST RESULT FOR KIDS AND TEENS (HTTPS)
+TEST RESULT FOR KIDS AND TEENS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Translate.google.com,X,CXN,http://www.Translate.google.com/,0.0
 Epicgames.com,O,,http://www.Epicgames.com/,0.140625
@@ -533,7 +533,7 @@ Pokemon.com,O,,http://www.Pokemon.com/,0.0625
 Abcya.com,O,,http://www.Abcya.com/,0.078125
 Pinkbike.com,O,,http://www.Pinkbike.com/,0.078125
 
-TEST RESULT FOR NEWS (HTTPS)
+TEST RESULT FOR NEWS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Reddit.com,O,,http://www.Reddit.com/,0.046875
 News.google.com,O,,http://www.News.google.com/,0.1875
@@ -586,7 +586,7 @@ Mathrubhumi.com,O,,http://www.Mathrubhumi.com/,0.0625
 Variety.com,O,,http://www.Variety.com/,0.125
 Theconversation.com,O,,http://www.Theconversation.com/,0.125
 
-TEST RESULT FOR RECREATION (HTTPS)
+TEST RESULT FOR RECREATION (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Booking.com,O,,http://www.Booking.com/,0.09375
 9gag.com,O,,http://www.9gag.com/,0.0625
@@ -639,7 +639,7 @@ Ebaumsworld.com,O,,http://www.Ebaumsworld.com/,0.0625
 Skyscanner.com,O,,http://www.Skyscanner.com/,0.0625
 Geocaching.com,O,,http://www.Geocaching.com/,0.09375
 
-TEST RESULT FOR REFERENCE (HTTPS)
+TEST RESULT FOR REFERENCE (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Stackoverflow.com,O,,http://www.Stackoverflow.com/,0.0625
 Udemy.com,O,,http://www.Udemy.com/,0.09375
@@ -692,7 +692,7 @@ Cornell.edu,O,,http://www.Cornell.edu/,0.03125
 Dict.cc,O,,http://www.Dict.cc/,0.046875
 Unisa.ac.za,O,,http://www.Unisa.ac.za/,0.03125
 
-TEST RESULT FOR REGIONAL (HTTPS)
+TEST RESULT FOR REGIONAL (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Google.com,O,,http://www.Google.com/,0.0
 Yahoo.com,O,,http://www.Yahoo.com/,0.015625
@@ -745,7 +745,7 @@ Rt.com,O,,http://www.Rt.com/,0.03125
 Xfinity.com,O,,http://www.Xfinity.com/,0.0
 Indiamart.com,O,,http://www.Indiamart.com/,0.046875
 
-TEST RESULT FOR SCIENCE (HTTPS)
+TEST RESULT FOR SCIENCE (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Translate.google.com,X,CXN,http://www.Translate.google.com/,0.0
 Researchgate.net,O,,http://www.Researchgate.net/,0.046875
@@ -798,7 +798,7 @@ Scientificamerican.com,O,,http://www.Scientificamerican.com/,0.03125
 Rsc.org,O,,http://www.Rsc.org/,0.046875
 Epa.gov,O,,http://www.Epa.gov/,0.046875
 
-TEST RESULT FOR SHOPPING (HTTPS)
+TEST RESULT FOR SHOPPING (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Amazon.com,O,,http://www.Amazon.com/,0.046875
 Netflix.com,O,,http://www.Netflix.com/,0.046875
@@ -851,7 +851,7 @@ Barnesandnoble.com,O,,http://www.Barnesandnoble.com/,0.03125
 Victoriassecret.com,X,UNK,http://www.Victoriassecret.com/,0.0
 6pm.com,O,,http://www.6pm.com/,0.03125
 
-TEST RESULT FOR SOCIETY (HTTPS)
+TEST RESULT FOR SOCIETY (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Nih.gov,O,,http://www.Nih.gov/,0.0625
 Patreon.com,O,,http://www.Patreon.com/,0.015625
@@ -904,7 +904,7 @@ Companieshouse.gov.uk,O,,http://www.Companieshouse.gov.uk/,0.015625
 Theknot.com,O,,http://www.Theknot.com/,0.0625
 Thrillist.com,O,,http://www.Thrillist.com/,0.03125
 
-TEST RESULT FOR SPORTS (HTTPS)
+TEST RESULT FOR SPORTS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Espn.com,O,,http://www.Espn.com/,0.0625
 Strava.com,O,,http://www.Strava.com/,0.046875
@@ -957,7 +957,7 @@ Foxsports.com.au,O,,http://www.Foxsports.com.au/,0.0
 Tsn.ca,O,,http://www.Tsn.ca/,0.03125
 Nrl.com,O,,http://www.Nrl.com/,0.03125
 
-TEST RESULT FOR ADULT (HTTPS)
+TEST RESULT FOR ADULT (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Xvideos.com,X,CXN,https://www.Xvideos.com/,0.015625
 Xnxx.com,X,CXN,https://www.Xnxx.com/,0.015625
@@ -1010,7 +1010,7 @@ Nifty.org,O,,https://www.Nifty.org/,0.046875
 Awempire.com,O,,https://www.Awempire.com/,0.015625
 Eroticmedia.com,O,,https://www.Eroticmedia.com/,0.03125
 
-TEST RESULT FOR ARTS (HTTPS)
+TEST RESULT FOR ARTS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Youtube.com,O,,https://www.Youtube.com/,0.015625
 Netflix.com,O,,https://www.Netflix.com/,0.015625
@@ -1063,7 +1063,7 @@ Money.cnn.com,O,,https://www.Money.cnn.com/,0.109375
 Ksl.com,O,,https://www.Ksl.com/,0.078125
 Newyorker.com,O,,https://www.Newyorker.com/,0.046875
 
-TEST RESULT FOR BUSINESS (HTTPS)
+TEST RESULT FOR BUSINESS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Office.com,O,,https://www.Office.com/,0.015625
 Paypal.com,O,,https://www.Paypal.com/,0.03125
@@ -1116,7 +1116,7 @@ Zara.com,O,,https://www.Zara.com/,0.046875
 Onlinelibrary.wiley.com,O,,https://www.Onlinelibrary.wiley.com/,0.09375
 Americanexpress.com,O,,https://www.Americanexpress.com/,0.046875
 
-TEST RESULT FOR COMPUTERS (HTTPS)
+TEST RESULT FOR COMPUTERS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Google.com,O,,https://www.Google.com/,0.015625
 Youtube.com,O,,https://www.Youtube.com/,0.046875
@@ -1169,7 +1169,7 @@ Alexa.com,O,,https://www.Alexa.com/,0.03125
 Pixabay.com,O,,https://www.Pixabay.com/,0.0625
 Intuit.com,O,,https://www.Intuit.com/,0.015625
 
-TEST RESULT FOR GAMES (HTTPS)
+TEST RESULT FOR GAMES (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Twitch.tv,O,,https://www.Twitch.tv/,0.03125
 Roblox.com,O,,https://www.Roblox.com/,0.015625
@@ -1222,7 +1222,7 @@ Games-workshop.com,O,,https://www.Games-workshop.com/,0.0625
 Travian.com,O,,https://www.Travian.com/,0.046875
 Pokemon.com,O,,https://www.Pokemon.com/,0.03125
 
-TEST RESULT FOR HEALTH (HTTPS)
+TEST RESULT FOR HEALTH (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Nih.gov,O,,https://www.Nih.gov/,0.015625
 Who.int,O,,https://www.Who.int/,0.03125
@@ -1275,7 +1275,7 @@ Osha.gov,O,,https://www.Osha.gov/,0.015625
 Nidcr.nih.gov,O,,https://www.Nidcr.nih.gov/,0.03125
 Doctor.webmd.com,X,CXN,https://www.Doctor.webmd.com/,0.0
 
-TEST RESULT FOR HOME (HTTPS)
+TEST RESULT FOR HOME (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Finance.yahoo.com,O,,https://www.Finance.yahoo.com/,0.0625
 Cnbc.com,O,,https://www.Cnbc.com/,0.046875
@@ -1328,7 +1328,7 @@ Marthastewart.com,O,,https://www.Marthastewart.com/,0.015625
 Cafemom.com,O,,https://www.Cafemom.com/,0.015625
 Theasianparent.com,O,,https://www.Theasianparent.com/,0.078125
 
-TEST RESULT FOR KIDS AND TEENS (HTTPS)
+TEST RESULT FOR KIDS AND TEENS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Translate.google.com,X,CXN,https://www.Translate.google.com/,0.0
 Epicgames.com,O,,https://www.Epicgames.com/,0.0625
@@ -1381,7 +1381,7 @@ Pokemon.com,O,,https://www.Pokemon.com/,0.015625
 Abcya.com,O,,https://www.Abcya.com/,0.015625
 Pinkbike.com,O,,https://www.Pinkbike.com/,0.015625
 
-TEST RESULT FOR NEWS (HTTPS)
+TEST RESULT FOR NEWS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Reddit.com,O,,https://www.Reddit.com/,0.0625
 News.google.com,O,,https://www.News.google.com/,0.09375
@@ -1434,7 +1434,7 @@ Mathrubhumi.com,O,,https://www.Mathrubhumi.com/,0.03125
 Variety.com,O,,https://www.Variety.com/,0.046875
 Theconversation.com,O,,https://www.Theconversation.com/,0.078125
 
-TEST RESULT FOR RECREATION (HTTPS)
+TEST RESULT FOR RECREATION (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Booking.com,O,,https://www.Booking.com/,0.09375
 9gag.com,O,,https://www.9gag.com/,0.078125
@@ -1487,7 +1487,7 @@ Ebaumsworld.com,O,,https://www.Ebaumsworld.com/,0.015625
 Skyscanner.com,O,,https://www.Skyscanner.com/,0.015625
 Geocaching.com,O,,https://www.Geocaching.com/,0.03125
 
-TEST RESULT FOR REFERENCE (HTTPS)
+TEST RESULT FOR REFERENCE (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Stackoverflow.com,O,,https://www.Stackoverflow.com/,0.09375
 Udemy.com,O,,https://www.Udemy.com/,0.03125
@@ -1540,7 +1540,7 @@ Cornell.edu,O,,https://www.Cornell.edu/,0.03125
 Dict.cc,O,,https://www.Dict.cc/,0.0625
 Unisa.ac.za,O,,https://www.Unisa.ac.za/,0.03125
 
-TEST RESULT FOR REGIONAL (HTTPS)
+TEST RESULT FOR REGIONAL (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Google.com,O,,https://www.Google.com/,0.03125
 Yahoo.com,O,,https://www.Yahoo.com/,0.015625
@@ -1593,7 +1593,7 @@ Rt.com,O,,https://www.Rt.com/,0.015625
 Xfinity.com,O,,https://www.Xfinity.com/,0.03125
 Indiamart.com,O,,https://www.Indiamart.com/,0.03125
 
-TEST RESULT FOR SCIENCE (HTTPS)
+TEST RESULT FOR SCIENCE (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Translate.google.com,X,CXN,https://www.Translate.google.com/,0.0
 Researchgate.net,O,,https://www.Researchgate.net/,0.03125
@@ -1646,7 +1646,7 @@ Scientificamerican.com,O,,https://www.Scientificamerican.com/,0.03125
 Rsc.org,O,,https://www.Rsc.org/,0.03125
 Epa.gov,O,,https://www.Epa.gov/,0.03125
 
-TEST RESULT FOR SHOPPING (HTTPS)
+TEST RESULT FOR SHOPPING (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Amazon.com,O,,https://www.Amazon.com/,0.015625
 Netflix.com,O,,https://www.Netflix.com/,0.015625
@@ -1699,7 +1699,7 @@ Barnesandnoble.com,O,,https://www.Barnesandnoble.com/,0.015625
 Victoriassecret.com,O,,https://www.Victoriassecret.com/,0.03125
 6pm.com,O,,https://www.6pm.com/,0.015625
 
-TEST RESULT FOR SOCIETY (HTTPS)
+TEST RESULT FOR SOCIETY (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Nih.gov,O,,https://www.Nih.gov/,0.03125
 Patreon.com,O,,https://www.Patreon.com/,0.03125
@@ -1752,7 +1752,7 @@ Companieshouse.gov.uk,X,CXN,https://www.Companieshouse.gov.uk/,0.03125
 Theknot.com,O,,https://www.Theknot.com/,0.015625
 Thrillist.com,O,,https://www.Thrillist.com/,0.015625
 
-TEST RESULT FOR SPORTS (HTTPS)
+TEST RESULT FOR SPORTS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Espn.com,O,,https://www.Espn.com/,0.046875
 Strava.com,O,,https://www.Strava.com/,0.0625
