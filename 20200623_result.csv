@@ -1,28 +1,28 @@
 
 Data collected at Tue Jun 23 19:35:29 2020,,,,
 
-"TEST RESULT FOR ADULT (HTTP),,,,"
+TEST RESULT FOR ADULT (HTTP),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Xvideos.com,X,DNS,http://www.Xvideos.com/,0.7282938957214355
 Xnxx.com,X,DNS,http://www.Xnxx.com/,0.975855827331543
 Chaturbate.com,O,,http://www.Chaturbate.com/,0.9318575859069824
 Youporn.com,X,DNS,http://www.Youporn.com/,0.24998021125793457
 
-"TEST RESULT FOR ARTS (HTTP),,,,"
+TEST RESULT FOR ARTS (HTTP),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Youtube.com,O,,http://www.Youtube.com/,0.870427131652832
 Netflix.com,O,,http://www.Netflix.com/,2.5150094032287598
 Imdb.com,O,,http://www.Imdb.com/,4.102847576141357
 Cnn.com,O,,http://www.Cnn.com/,2.8911595344543457
 
-"TEST RESULT FOR ADULT (HTTPS),,,,"
+TEST RESULT FOR ADULT (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Xvideos.com,X,CXN,https://www.Xvideos.com/,0.046875
 Xnxx.com,X,CXN,https://www.Xnxx.com/,0.078125
 Chaturbate.com,O,,https://www.Chaturbate.com/,0.109375
 Youporn.com,X,CXN,https://www.Youporn.com/,0.0625
 
-"TEST RESULT FOR ARTS (HTTPS),,,,"
+TEST RESULT FOR ARTS (HTTPS),,,,
 Site,Accessible,CensorType,URL,Time Taken
 Youtube.com,O,,https://www.Youtube.com/,0.046875
 Netflix.com,O,,https://www.Netflix.com/,0.125
